@@ -5,7 +5,9 @@
 
 class = EmailParser
   
-  attr_accessor
+  attr_accessor :csv_emails
+  
+  
   
   
   
